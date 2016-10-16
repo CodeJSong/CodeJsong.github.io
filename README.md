@@ -1,4 +1,4 @@
 # CodeJsong.github.io
 Jun Song
 
-Personal website with bootstrap.
+Personal website made of bootstrap.
